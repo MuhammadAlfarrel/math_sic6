@@ -1,5 +1,5 @@
 def calculate_area(length, width):
-    return length * width * 0.5 # Bug: Should be multiplication
+    return length * width * 0.5 
 
 # Example usage (for testing)
 length = 5
