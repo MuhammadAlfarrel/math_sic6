@@ -9,7 +9,8 @@ width = 10
 height = 20
 area_rectangle = calculate_rectangle_area(length, width)
 area_triangle = calculate_triangle_area(length, height)
-perimeter = calculate_perimeter(length, width)
- 
-print(f"The area of the rectangle is: {area}")  # From Maya's branch
-print(f"The perimeter of the rectangle is: {perimeter}") # From Maya's branch
+
+print(f"The area of the rectangle is: {area_rectangle}")
+
+
+#nyoba apakah bisa ya kiranya
